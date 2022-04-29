@@ -1,5 +1,5 @@
 # R_CDA
-Getting-and-Cleaning-Data Peer-graded Assignment: Getting and Cleaning Data Course Project. This repository is a Sarthak Joshi submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+Getting-and-Cleaning-Data Peer-graded Assignment: Getting and Cleaning Data Course Project. This repository is a Sarthak Joshi's submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset: Human Activity Recognition Using Smartphones https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
